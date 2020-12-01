@@ -10,7 +10,7 @@
 4. End of Distribution imputation
 5. Arbitrary imputation
 6. Frequent categories imputation
-###Types of Encoding
+### Types of Encoding
 1. Nominal Encoding: 
    (a) One Hot Encoding
    (b) One Hot Encoding with Many Categotical
@@ -18,3 +18,4 @@
 2. Ordinal Encoding:
    (a) Label Encoding
    (b) Target Guided Ordinal Encoding
+ Count Or Frequency Encoding
