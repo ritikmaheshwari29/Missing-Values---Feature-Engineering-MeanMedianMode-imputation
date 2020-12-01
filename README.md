@@ -18,4 +18,5 @@
 2. Ordinal Encoding:
    (a) Label Encoding
    (b) Target Guided Ordinal Encoding
- Count Or Frequency Encoding
+
+##### Count Or Frequency Encoding
